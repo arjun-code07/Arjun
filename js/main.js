@@ -44,53 +44,21 @@ const config = {
   
   projects: [
     {
-      title: "E-Commerce Platform",
-      description: "A full-stack e-commerce solution with React, Node.js, and MongoDB.",
+      title: "E-Charge Assist",
+      description: "A full-stack E-Charge solution with React, Node.js, and MongoDB.",
       technologies: ["React", "Node.js", "MongoDB"],
       gradient: "from-teal-500 to-purple-600",
       icon: "fa-laptop-code",
       category: "full-stack"
     },
     {
-      title: "Task Management App",
-      description: "A responsive task management application with drag & drop functionality.",
+      title: "UniClub-Connect",
+      description: "A responsive University Club application.",
       technologies: ["JavaScript", "HTML5", "CSS3"],
       gradient: "from-purple-500 to-pink-600",
       icon: "fa-mobile-alt",
       category: "frontend"
     },
-    {
-      title: "Data Visualization Dashboard",
-      description: "Interactive dashboard for data analysis with real-time updates.",
-      technologies: ["Python", "D3.js", "Flask"],
-      gradient: "from-pink-500 to-red-600",
-      icon: "fa-chart-line",
-      category: "backend"
-    },
-    {
-      title: "Real-time Chat Application",
-      description: "WebSocket-based chat app with user authentication and message history.",
-      technologies: ["Socket.io", "Express", "React"],
-      gradient: "from-cyan-500 to-blue-600",
-      icon: "fa-comments",
-      category: "full-stack"
-    },
-    {
-      title: "Weather Forecast App",
-      description: "Beautiful weather app with real-time data and interactive maps.",
-      technologies: ["React", "API Integration", "Tailwind"],
-      gradient: "from-blue-500 to-cyan-600",
-      icon: "fa-cloud-sun",
-      category: "frontend"
-    },
-    {
-      title: "Microservices API Gateway",
-      description: "Scalable API gateway with authentication, rate limiting, and caching.",
-      technologies: ["Node.js", "Redis", "PostgreSQL"],
-      gradient: "from-emerald-500 to-teal-600",
-      icon: "fa-server",
-      category: "backend"
-    }
   ],
   
   achievements: {
