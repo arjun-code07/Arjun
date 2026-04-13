@@ -95,17 +95,17 @@ const config = {
   
   achievements: {
     stats: [
-      { label: "Projects", value: "12+", icon: "fa-code", color: "from-teal-500 to-cyan-500" },
-      { label: "Happy Clients", value: "20+", icon: "fa-users", color: "from-purple-500 to-pink-500" },
-      { label: "Years Experience", value: "2+", icon: "fa-briefcase", color: "from-orange-500 to-red-500" },
-      { label: "Skills Mastered", value: "15+", icon: "fa-star", color: "from-yellow-500 to-orange-500" }
+      { label: "Projects", value: "0", icon: "fa-code", color: "from-teal-500 to-cyan-500" },
+      { label: "Happy Clients", value: "0", icon: "fa-users", color: "from-purple-500 to-pink-500" },
+      { label: "Years Experience", value: "0", icon: "fa-briefcase", color: "from-orange-500 to-red-500" },
+      { label: "Skills Mastered", value: "7+", icon: "fa-star", color: "from-yellow-500 to-orange-500" }
     ],
     badges: [
-      { title: "Full Stack Master", description: "Built 5+ full-stack applications with modern tech stack", icon: "fa-laptop-code", color: "from-teal-500 to-blue-600" },
-      { title: "Creative Designer", description: "Designed and implemented 10+ responsive UI/UX projects", icon: "fa-paint-brush", color: "from-pink-500 to-purple-600" },
-      { title: "Problem Solver", description: "Solved 100+ coding challenges and optimized performance", icon: "fa-lightbulb", color: "from-yellow-500 to-orange-600" },
-      { title: "Open Source Contributor", description: "Contributed to 5+ open-source projects and frameworks", icon: "fa-code-branch", color: "from-green-500 to-emerald-600" },
-      { title: "Continuous Learner", description: "Completed 20+ online courses and certifications", icon: "fa-graduation-cap", color: "from-indigo-500 to-blue-600" },
+      { title: "Full Stack Master", description: "Built 1 full-stack applications with modern tech stack", icon: "fa-laptop-code", color: "from-teal-500 to-blue-600" },
+      { title: "Creative Designer", description: "Designed and implemented 1 responsive UI/UX projects", icon: "fa-paint-brush", color: "from-pink-500 to-purple-600" },
+      { title: "Problem Solver", description: "Solved 17+ coding challenges and optimized performance", icon: "fa-lightbulb", color: "from-yellow-500 to-orange-600" },
+      { title: "Open Source Contributor", description: "Contributed to 0 open-source projects and frameworks", icon: "fa-code-branch", color: "from-green-500 to-emerald-600" },
+      { title: "Continuous Learner", description: "Completed 5+ online courses and certifications", icon: "fa-graduation-cap", color: "from-indigo-500 to-blue-600" },
       { title: "Team Player", description: "Led and collaborated with diverse teams on complex projects", icon: "fa-people-group", color: "from-red-500 to-pink-600" }
     ]
   }
