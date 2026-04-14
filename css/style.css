@@ -834,14 +834,13 @@ footer {
   backdrop-filter: blur(10px);
 }
 .contact-info-card {
-  min-width: 240px;
-  width: 100%;
+  width: 240px;
+  min-height: 170px;
 }
 
 .email-text {
-  word-break: break-word;
-  overflow-wrap: break-word;
-  white-space: normal;
+  word-break: break-all;
+  font-size: 0.95rem;
   text-align: center;
 }
 /* Responsive Design */
