@@ -833,16 +833,7 @@ footer {
   background: rgba(0, 0, 0, 0.8);
   backdrop-filter: blur(10px);
 }
-.contact-info-card {
-  width: 240px;
-  min-height: 170px;
-}
 
-.email-text {
-  word-break: break-all;
-  font-size: 0.95rem;
-  text-align: center;
-}
 /* Responsive Design */
 @media (max-width: 768px) {
   .timeline::before {
