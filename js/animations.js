@@ -1,7 +1,6 @@
 // Enhanced Typing Animation with letter-by-letter effect
 const phrases = [
   "Full Stack Developer",
-  "Gamer", 
   "Software Engineer",
   "Problem Solver"
 ];
