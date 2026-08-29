@@ -63,7 +63,7 @@ const config = {
   
   achievements: {
     stats: [
-      { label: "Projects", value: "0", icon: "fa-code", color: "from-teal-500 to-cyan-500" },
+      { label: "Projects", value: "2", icon: "fa-code", color: "from-teal-500 to-cyan-500" },
       { label: "Certification", value: "6", icon: "fa-users", color: "from-purple-500 to-pink-500" },
       { label: "Years Experience", value: "0", icon: "fa-briefcase", color: "from-orange-500 to-red-500" },
       { label: "Skills Mastered", value: "7+", icon: "fa-star", color: "from-yellow-500 to-orange-500" }
